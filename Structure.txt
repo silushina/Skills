@@ -1,0 +1,17 @@
+ID:
+Summary:
+Environment: (device, OS)
+
+Severity: (Blocker/Critical/Major/Minor/Trivial)
+Priority: (High/Medium/Low)
+Status: (depending on bug workflow: Unconfirmed/New/Assigned/Resolved/Verified/Reopened)
+
+Steps to reproduce:
+1)
+2)
+....
+
+Actual result:
+Expected result:
+
+Attachment: (logs file, video/screeshot)
